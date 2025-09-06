@@ -1,17 +1,20 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
 <html>
-      <head>
-          <About>
-      </head>
-      <body>
-          <h1>Hello, get to know me here. :)</h>
-          <p>First things first, I love Cheese.
-I know that might be weird, but, you guessed it, I'm Weird.</p>
 
-          <br />
-          <p>Hi, I am 14 years old I like to hike, fish, and I like to play RTS games. I also like to build computers and
-fix them.</p>
-      </body>
+<head>
 
-<h2>Navigate</h2>
-<p><a href="Index.html">Home</a></p>
+<h1>Hello, get to know me here. :)</h>
+
+<p>My name is Gunnar Pettit and I am 16.</p>
+
+</head>
+
+<body>
+
+<p>I have 3 siblings.</p>
+
+</body>
+
+<a href="file:///P:/index.html" target="_blank">Index</a>
+
