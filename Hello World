@@ -1,21 +1,21 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-
+<!DOCTYPE html>
 <html>
+      <head>
+          <About>
+      </head>
+      <body>
+          <h1>Hello, get to know me here. :)</h>
+          <p>my Name Is Ryker Pettit.
+I have 3 sibblings.</p>
 
-<head>
+          <br />
+          <p>Gunnar<p/>
+            <p>Maverick<p/>
+            <p>and Nora<p/>
+            <p>My parents are<p/>
+            <p>Beth<p/>
+            <p>Kyle<p/>
+      </body>
 
-<h1>Hello, get to know me here. :)</h>
-
-<p>My name is Gunnar Pettit and I am 16.</p>
-
-</head>
-
-<body>
-
-<p>Kyle, Beth, Ryker, Mav, and Nora.</p>
-
-</body>
-
-<a href="file:///P:/index.html" target="_blank">Index</a>
-
-
+<h2>Navigate</h2>
+<p><a href="Index.html">Home</a></p>
